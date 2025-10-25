@@ -400,4 +400,5 @@ Figura 4: formulario de edición de producto incorporando asignación de horario
 
 - Para **depurar el frontend**, asegúrate de que **SÍ** haya una instancia en ejecución del frontend que deseas depurar, y usa las herramientas de depuración del navegador.
 #   E x L a b - F r o n t e n d - C u r s o - S c h e d u l e s - m a s t e r  
+ #   E x L a b - F r o n t e n d - C u r s o - S c h e d u l e s - m a s t e r  
  
